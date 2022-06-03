@@ -1,0 +1,36 @@
+.forecast-small {
+  margin: 10px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+}
+.icon-small {
+  color: #fce100;
+  font-size: 30px;
+}
+.current-icon {
+  color: #fce100;
+  font-size: 100px;
+  text-align: center;
+  margin: 50px;
+}
+
+.city-search {
+  margin: 10px auto;
+  color: #fce100;
+}
+.row-1 {
+  border: 1px solid;
+}
+.weather-app {
+  background: linear-gradient(
+    181.2deg,
+    rgb(181, 239, 249) 10.5%,
+    rgb(254, 254, 254) 86.8%
+  );
+  padding: 10px;
+}
+.search-button .location-button {
+  padding: 10px;
+  margin: 10px;
+}
